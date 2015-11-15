@@ -17,7 +17,7 @@ bower install interval-digit-sum
 ```javascript
 const intervalDigitSum = require('interval-digit-sum');
 
-const numbers = intervalDigitSum([0,100], 8);
+const numbers = intervalDigitSum([0, 100], 8);
 
 console.log(numbers);
 /*
@@ -28,7 +28,7 @@ console.log(numbers);
 Unique only (non-repeating numbers)
 
 ```javascript
-const numbers = intervalDigitSum([0,100], 8, {
+const numbers = intervalDigitSum([0, 100], 8, {
   unique: true
 });
 
