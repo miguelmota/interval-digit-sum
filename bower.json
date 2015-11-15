@@ -1,0 +1,24 @@
+{
+  "name": "interval-digit-sum",
+  "main": "interval-digit-sum.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/interval-digit-sum",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Find all the digits within an interval whose sum equal the target value.",
+  "keywords": [
+    "digit",
+    "sum",
+    "interval",
+    "math"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
