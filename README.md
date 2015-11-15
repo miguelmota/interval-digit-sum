@@ -25,7 +25,7 @@ console.log(numbers);
 */
 ```
 
-Unique only (non-repeating numbers)
+Unique only (non-repeating digits)
 
 ```javascript
 const numbers = intervalDigitSum([0,100], 8, {
